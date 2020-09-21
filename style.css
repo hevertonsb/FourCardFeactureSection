@@ -70,11 +70,6 @@ body{
     margin-top: 7.5rem;
 }
 
-.features .centered {
-    width: 100%;
-    min-width: 375px;
-}
-
 .features .feature{
     background-color: var(--color-white);
     width: 100%;
