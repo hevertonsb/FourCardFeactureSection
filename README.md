@@ -4,7 +4,7 @@
 
 ### Project Online
 
-[Project Link]
+[Link Project on Vercel]
 
 "A nice layout-based challenge for beginners. This will test anyone who is new to multi-column and responsive layouts." [Challenge]
 
@@ -20,4 +20,4 @@
 
 [Challenge]: <https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK>
 
-[Project Link]: <https://four-card-feacture-section-blond.vercel.app/>
+[Link Project on Vercel]: <https://four-card-feacture-section-blond.vercel.app/>
