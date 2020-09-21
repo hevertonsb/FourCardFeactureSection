@@ -68,15 +68,15 @@ body{
 }
 
 .features{
-    margin-top: 7.5rem;
+    margin: 7.5rem auto;
 }
 
 .features .feature{
     background-color: var(--color-white);
     width: 100%;
-    min-width: 375px;
+    /* min-width: 375px; */
     border-radius: 8px;
-    margin-bottom:3rem;
+    margin:0 auto 3rem;
     padding: 2.5rem;
     box-shadow: -1px 17px 23px -10px  hsl(228, 5%, 82%);
     border-top:4px solid;
@@ -161,6 +161,10 @@ footer a{
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+
+    .features .feature{
+        min-width: 375px;
     }
 
     .features .centered {
