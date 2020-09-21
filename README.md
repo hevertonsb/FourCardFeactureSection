@@ -20,4 +20,4 @@
 
 [Challenge]: <https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK>
 
-[Project]: <https://four-card-feacture-section-blond.vercel.app/>
+[Project Link]: <https://four-card-feacture-section-blond.vercel.app/>
